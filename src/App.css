@@ -1,0 +1,15 @@
+.header{
+  width: 90%;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.nav-links{
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
